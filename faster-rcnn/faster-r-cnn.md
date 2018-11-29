@@ -18,7 +18,7 @@ It includes 3 parts:
 
 ZF net 
 
-![][https://qph.fs.quoracdn.net/main-qimg-83c7dee9e8b039c3ca27c8dd91cacbb4]
+![](https://qph.fs.quoracdn.net/main-qimg-83c7dee9e8b039c3ca27c8dd91cacbb4)
 
 VGG 16
 
