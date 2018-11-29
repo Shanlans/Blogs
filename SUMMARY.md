@@ -4,6 +4,7 @@
 
 ## Faster-RCNN
 
-* [Faster RCNN - batch\_size](faster-rcnn/faster-rcnn-traps.md)
-* [Untitled](faster-rcnn/untitled.md)
+* [Faster R-CNN](faster-rcnn/faster-r-cnn.md)
+* [Batch Size Probelm](faster-rcnn/faster-rcnn-traps.md)
+* [4-Training Stage](faster-rcnn/untitled.md)
 

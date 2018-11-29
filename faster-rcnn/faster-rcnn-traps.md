@@ -2,9 +2,13 @@
 description: The issue when I was exploring the faster RCNN code
 ---
 
-# Faster RCNN - batch\_size
+# Batch Size Probelm
 
 {% embed url="https://github.com/Shanlans/Image\_detection" %}
+
+> Each mini-batch arises from a single image that contains many positive and negative example anchors.
+>
+> 每个mini-batch 仅有一个图像（**single image**）（section 3.1.3 Training RPNs 第一段）
 
 * Batch size：
 
