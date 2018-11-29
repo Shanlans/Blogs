@@ -1,7 +1,3 @@
----
-description: The issue when I was exploring the faster RCNN code
----
-
 # Batch Size Probelm
 
 {% embed url="https://github.com/Shanlans/Image\_detection" %}

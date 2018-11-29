@@ -12,21 +12,19 @@ This documents just for myself understanding for faster-rcnn. Hope it can help y
 
 It includes 3 parts:
 
-- Basic feature extractor network (E.g Vgg-16, in this paper): To extract features for generating region proposals
+* Basic feature extractor network \(E.g Vgg-16, in this paper\): To extract features for generating region proposals
 
 ![](https://adeshpande3.github.io/assets/zfnet.png)
 
-<center>ZF net</certer>
+ZF net 
 
-![](https://qph.fs.quoracdn.net/main-qimg-83c7dee9e8b039c3ca27c8dd91cacbb4) 
+!\[\]\([https://qph.fs.quoracdn.net/main-qimg-83c7dee9e8b039c3ca27c8dd91cacbb4](https://image.jiqizhixin.com/uploads/editor/319aff89-570c-429e-b6b6-f4652d833ccb/640.jpeg)\)VGG 16
 
-<center>VGG 16</center>
-
-
-- Region Proposal Network (RPN): On the top of the _basic feature extractor_, can simultaneously regress region bounds and objectness scores.
+* Region Proposal Network \(RPN\): On the top of the _basic feature extractor_, can simultaneously regress region bounds and objectness scores.
 
 ![](https://pic3.zhimg.com/80/v2-1908feeaba591d28bee3c4a754cca282_hd.jpg)
 
-- Fast RCNN: To do regression of **Coordinate of Bounding Box** and **Class Score** for each **Proposal Region**
+* Fast RCNN: To do regression of **Coordinate of Bounding Box** and **Class Score** for each **Proposal Region**
 
 ![](https://pic2.zhimg.com/80/v2-1e43500c7cc9a9de211d737bc347ced9_hd.jpg)
+
