@@ -18,7 +18,9 @@ It includes 3 parts:
 
 ZF net 
 
-!\[\]\([https://qph.fs.quoracdn.net/main-qimg-83c7dee9e8b039c3ca27c8dd91cacbb4](https://image.jiqizhixin.com/uploads/editor/319aff89-570c-429e-b6b6-f4652d833ccb/640.jpeg)\)VGG 16
+![]([https://qph.fs.quoracdn.net/main-qimg-83c7dee9e8b039c3ca27c8dd91cacbb4]
+
+VGG 16
 
 * Region Proposal Network \(RPN\): On the top of the _basic feature extractor_, can simultaneously regress region bounds and objectness scores.
 
