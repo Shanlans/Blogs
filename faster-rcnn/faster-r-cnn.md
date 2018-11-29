@@ -16,7 +16,7 @@ It includes 3 parts:
 
 ![](https://adeshpande3.github.io/assets/zfnet.png)
 
-ZF net 
+ZF net
 
 ![](https://qph.fs.quoracdn.net/main-qimg-83c7dee9e8b039c3ca27c8dd91cacbb4)
 
