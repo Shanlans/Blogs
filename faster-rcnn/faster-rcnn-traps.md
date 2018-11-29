@@ -2,13 +2,13 @@
 description: The issue when I was exploring the faster RCNN code
 ---
 
-# Faster RCNN traps
+# Faster RCNN - batch\_size
 
 {% embed url="https://github.com/Shanlans/Image\_detection" %}
 
 * Batch size：
 
-![&#x4E3A;&#x4EC0;&#x4E48;&#x8981;expan\_dims](.gitbook/assets/wechat-image_20181129111312.png)
+![&#x4E3A;&#x4EC0;&#x4E48;&#x8981;expan\_dims](../.gitbook/assets/wechat-image_20181129111312.png)
 
 1. y\_rpn\_overlap: 每个Anchor与bbox的overlap是否超过70%（每个anchor是否为Positive）
 2. y\_is\_box\_valid: 记录这个anchor是否为被选中的anchor（positive被选中/negative被选中）
