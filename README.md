@@ -1,4 +1,4 @@
-# [Shanlan's Blog](https://shanlan-shen.gitbook.io/shanlan-s-blog/~/drafts/-LSSXRNZ7lkV1BaD_xDa/primary/)
+# Shanlan's Blog
 
-[Blog](./SUMMARY.md)
+[Blog](https://github.com/Shanlans/Blogs/tree/de7f3e0d37673bb4cea6a1f0923e3ebc04845601/SUMMARY.md)
 

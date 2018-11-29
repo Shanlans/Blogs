@@ -1,5 +1,5 @@
 ---
-description: Mark the issue I met when I was exploring the faster RCNN code
+description: The issue when I was exploring the faster RCNN code
 ---
 
 # Faster RCNN traps
