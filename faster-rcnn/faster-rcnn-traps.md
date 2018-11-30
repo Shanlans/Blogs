@@ -1,4 +1,4 @@
-# Batch Size Probelm
+# Batch Size Problem
 
 {% embed url="https://github.com/Shanlans/Image\_detection" %}
 
