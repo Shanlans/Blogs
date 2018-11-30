@@ -14,5 +14,10 @@
 
 ## Data mining
 
+* [AutoEncoder](data-mining/autoencoder.md)
 * [Anomaly detection](data-mining/anomaly-detection.md)
+
+## python
+
+* [Fatal Python error: Py\_Initialize: can't initialize sys standard streams LookupError: unknown encodi](python/fatal-python-error-py_initialize-cant-initialize-sys-standard-streams-lookuperror-unknown-encodi.md)
 
