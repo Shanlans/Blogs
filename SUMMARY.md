@@ -22,3 +22,7 @@
 
 * [Fatal Python error: Py\_Initialize: can't initialize sys standard streams LookupError: unknown encodi](python/fatal-python-error-py_initialize-cant-initialize-sys-standard-streams-lookuperror-unknown-encodi.md)
 
+## Statistics
+
+* [Mento Carlo Methods](statistics/mento-carlo-methods.md)
+
